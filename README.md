@@ -13,7 +13,7 @@
 # November 3, 2015
 ## Things I'll do This Week:
 
-- [ ]  确定light的js改版方案，并且完成light js部分整理.
+- [x] 确定light的js改版方案，并且完成light js部分整理.
 - [ ] 确定bbox的样式改进方案，暂定为inline style的方式.
 - [ ] 学习[redux](http://camsong.github.io/redux-in-chinese/).
 - [ ] 学习并翻译一篇[ES6 Overview](https://ponyfoo.com/articles/es6).
