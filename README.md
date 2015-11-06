@@ -18,3 +18,4 @@
 - [ ] 学习[redux](http://camsong.github.io/redux-in-chinese/).
 - [ ] 学习并翻译一篇[ES6 Overview](https://ponyfoo.com/articles/es6).
 - [ ] 清理evernote中的未读笔记.
+- [ ] 学习这个关于[react行内样式的视频](https://www.youtube.com/watch?v=ERB1TJBn32c)
