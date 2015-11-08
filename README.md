@@ -10,12 +10,13 @@
 6. 参加一次迷笛或其他音乐节/eason演唱会。
 
 
-# November 3, 2015
+# November 9, 2015
 ## Things I'll do This Week:
 
-- [x] 确定light的js改版方案，并且完成light js部分整理.
-- [ ] 确定bbox的样式改进方案，暂定为inline style的方式.
-- [x] 学习[redux](http://camsong.github.io/redux-in-chinese/).
-- [x] 学习并翻译一篇[ES6 Overview](https://ponyfoo.com/articles/es6).
-- [ ] 清理evernote中的未读笔记.
-- [x] 学习这个关于[react行内样式的视频](https://www.youtube.com/watch?v=ERB1TJBn32c)
+- [ ] 使用redux & inline style的方式重构BBOX.
+- [ ] 学习[redux](http://camsong.github.io/redux-in-chinese/).
+- [ ] 学习并翻译第二篇[ES6 Overview](https://ponyfoo.com/articles/es6).
+- [ ] 写篇《基于bootstrap做UI升级的思路》blog.
+- [ ] 继续做饭带饭.
+- [ ] 在[脑图](http://naotu.baidu.com/file/a1277c34da2b9bfd59552e07f8578ac6?token=21aa6cb2c1465fb6)中更新后续的工作重点.
+- [ ] 研究学习[weui](https://github.com/weui/weui).
