@@ -18,6 +18,6 @@
 - [ ] 学习并翻译第二篇[ES6 Overview](https://ponyfoo.com/articles/es6).
 - [ ] 写篇《基于bootstrap做UI升级的思路》blog.
 - [ ] 继续做饭带饭.
-- [ ] 在[脑图](http://naotu.baidu.com/file/a1277c34da2b9bfd59552e07f8578ac6?token=21aa6cb2c1465fb6)中更新后续的工作重点.
+- [x] 在[脑图](http://naotu.baidu.com/file/a1277c34da2b9bfd59552e07f8578ac6?token=21aa6cb2c1465fb6)中更新后续的工作重点.
 - [ ] 研究学习[weui](https://github.com/weui/weui).
 - [x] 温故关于[redux的分享](https://www.youtube.com/watch?v=xsSnOQynTHs)
