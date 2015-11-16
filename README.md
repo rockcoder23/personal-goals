@@ -10,7 +10,7 @@
 6. 参加一次迷笛或其他音乐节/eason演唱会。(@nanjinlizhi)
 
 
-# November 9, 2015
+# November 16, 2015
 ## Things I'll do This Week:
 - [ ] 使用redux & inline style的方式重构BBOX.
 - [ ] 继续做饭带饭.
