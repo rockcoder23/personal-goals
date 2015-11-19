@@ -14,7 +14,7 @@
 ## Things I'll do This Week:
 - [ ] 使用redux & inline style的方式重构BBOX.
 - [ ] 继续做饭带饭.
-- [ ] 研究学习[weui](https://github.com/weui/weui).
+- [x] 研究学习[weui](https://github.com/weui/weui).
 - [ ] 写篇《基于bootstrap做UI升级的思路》blog.
 - [ ] 写篇《我理解的redux》blog.
 - [x] 确定bbox改版的原型和罗大师确认。
