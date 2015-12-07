@@ -9,14 +9,11 @@
 5. 锻炼身体  (羽 & 跑)
 6. 参加一次迷笛或其他音乐节/eason演唱会。(@nanjinlizhi)
 
-
-# November 16, 2015
+# December 7-11, 2015
 ## Things I'll do This Week:
-- [ ] 使用redux & inline style的方式重构BBOX.
-- [ ] 继续做饭带饭.
-- [x] 研究学习[weui](https://github.com/weui/weui).
-- [ ] 写篇《基于bootstrap做UI升级的思路》blog.
-- [ ] 写篇《我理解的redux》blog.
-- [x] 确定bbox改版的原型和罗大师确认。
-- [x] 完成项目yfx前后端开发。
+- [ ] 使用redux & css modules的方式重构BBOX.
+- [ ] 翻译es6文章两篇
+- [ ] 写篇《shop后台改版的方案》blog.
+- [ ] 周末整理blog的剩下部分
+
 
