@@ -9,11 +9,11 @@
 5. 锻炼身体  (羽 & 跑)
 6. 参加一次迷笛或其他音乐节/eason演唱会。(@nanjinlizhi)
 
-# December 7-11, 2015
+# Date: 2016/01/04-2016/01/10
 ## Things I'll do This Week:
-- [ ] 使用redux & css modules的方式重构BBOX.
-- [ ] 翻译es6文章两篇
-- [ ] 写篇《shop后台改版的方案》blog.
-- [ ] 周末整理blog的剩下部分
+- [ ] study [Sass Guidelines](http://sass-guidelin.es/zh/)
+- [ ] read post [Styling React Components In Sass](http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/)
+- [ ] study [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/) course 
+- [ ] read [Front end Developer HandBook](https://dwqs.gitbooks.io/frontenddevhandbook/content/index.html)
 
 
