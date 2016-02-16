@@ -14,6 +14,6 @@
 - [x] study [Sass Guidelines](http://sass-guidelin.es/zh/) :+1:
 - [x] read post [Styling React Components In Sass](http://hugogiraudel.com/2015/06/18/styling-react-components-in-sass/)
 - [ ] study [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/) course 
-- [ ] read [Front end Developer HandBook](https://dwqs.gitbooks.io/frontenddevhandbook/content/index.html)
+- [x] read [Front end Developer HandBook](https://dwqs.gitbooks.io/frontenddevhandbook/content/index.html) :+1:
 
 
