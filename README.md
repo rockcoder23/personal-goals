@@ -1,6 +1,4 @@
-# Personal Goals
-
-# Overarching Goals for 2016
+# Personal Goals Of 2016
 
 * [ ] 阅读40+本书，不限类别([2016书单](http://www.douban.com/doulist/43781482/))
 * [ ] 每月2篇blog
